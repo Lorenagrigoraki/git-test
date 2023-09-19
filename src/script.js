@@ -1,6 +1,3 @@
-function hello(){
-    alert('hello from Git!')
-}
-function sayBye(){
-    alert('Bye!')
+function sum(a,b){
+    return a+b
 }
